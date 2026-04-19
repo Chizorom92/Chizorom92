@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chizorom92
 - 👀 I’m interested in learning active web development skills 
-- 🌱 I’m currently learning Html syntax
-- 💞️ I’m looking to collaborate on Frontend monitor 
-- 📫 How to reach me via x @benjaminmbabie
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate  
+- 📫 How to reach me via x/twitter => { @benjaminmbabie }
 
 
 <!---
